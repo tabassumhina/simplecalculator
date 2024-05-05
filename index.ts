@@ -25,3 +25,5 @@ if (answer.operator === "addition") {
 } else {
   console.log("please select valid operator");
 }
+
+console.log("The End")
